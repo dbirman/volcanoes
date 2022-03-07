@@ -1,3 +1,4 @@
+#!/bin/bash 
 cp docs/CNAME public/CNAME
 rm -rf docs
-cp public docs
+cp -r public docs
