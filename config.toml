@@ -17,6 +17,10 @@ theme = "singular"
     [params.logo]
         url = "/static/Volcano_Blog.gif"
 
+[privacy]
+    [privacy.youtube]
+        privacyEnhanced = true
+
 [[menu.main]]
     url = "/"
     name = "Home"
