@@ -1,4 +1,4 @@
-baseURL = "https://volcanoes.danbirman.com"
+baseURL = "https:/volcanoes.danbirman.com"
 languageCode = "en-us"
 title = "Lava Cake Expedition"
 theme = "singular"
@@ -38,7 +38,7 @@ theme = "singular"
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
-# The list of available icons can be found at http://fontawesome.io/icons.
+# The list of available icons can be found at http:/fontawesome.io/icons.
 
 [[menu.icon]]
     url = "mailto:danbirman@gmail.com"
@@ -46,6 +46,6 @@ theme = "singular"
     weight = 1
 
 #[[menu.icon]]
-#    url = "https://github.com/dbirman/"
+#    url = "https:/github.com/dbirman/"
 #    name = "fab fa-github"
 #    weight = 2
