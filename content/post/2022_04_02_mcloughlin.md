@@ -2,7 +2,7 @@
 title: "Mount Mcloughlin"
 date: 2022-04-02
 tags: []
-draft: true
+draft: false
 ---
 
 ![map of mcloughlin](/static/maps/mcloughlin.png)
@@ -47,24 +47,24 @@ I didn't take too many photos of the boring parts, but basically I trudged throu
 
 For once there were other people around but unfortunately I caught the one person who wasn't looking really cool on this pitch. The snow on the southeast face turned out to be absolutely perfect for the entire top 1000', you could blast down it as fast as you wanted to in perfect security. 
 
-{{< youtube id="video517">}}<space>
+{{< youtube id="-Ah4BjTY6qE">}}<space>
 
 The final hike up the ridge got me to the summit at about 2:00pm, where I captured a few quick photos of the nearby mountains, hopefully as useful beta for later to try to figure out where there's actually snow in Oregon! The first photo is looking North and you should be able to see Washington, Bachelor, Diamond, Bailey, Thielsen, and Crater Lake, but I'm actually not too sure which volcano is which! The second photo is looking back to Shasta. 
 
 ![img1](/static/mcloughlin/IMG_0520.png)
 ![img1](/static/mcloughlin/IMG_0521.png)
 
-{{< youtube id="video522">}}<space>
+{{< youtube id="_p7ZdaBZx6s">}}<space>
 
 I talked with two other skiers on the top for a long while about whether to tempt fate and go down the East bowl which obviously gets less sun and I was worried would be quite icy or to head down the Southeast face which looked perfect and amazing. After a bit of debate I decided to go down the Southeast option and indeed it was so flawless that I stopped at the bottom of the 1000' run and went back up. 
 
 ![img1](/static/mcloughlin/67062737655__16117ACF-8BBE-4BD3-B2E6-816AFF597419.png)
 
-{{< youtube id="video524">}}<space>
+{{< youtube id="j4Drrt2DtQ0">}}<space>
 
 For run two I debated again, but some other skiers on the summit said they watched the two folks I met earlier go down the East bowl and that they didn't think it looked good. So I took another run down the Southeast face and then dodged exposed rocks for 45 minutes to try to get as low as possible down the mountain. Eventually, I gave up and pulled the approach shoes back out and threw my skis on my back. 
 
-{{< youtube id="video525">}}<space>
+{{< youtube id="hOan1G5QU94">}}<space>
 
 Back at the car, Le Cheval and I ate some goldfish and drove back to our deluxe accommodations to wait out the storm. 
 
