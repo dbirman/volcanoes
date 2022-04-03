@@ -43,7 +43,7 @@ I didn't take too many photos of the boring parts, but basically I trudged throu
 
 {{< youtube id="mE0d236ZlqQ">}}<space>
 
-![img1](/static/mcloughlin/IMG_0514.png)
+![img1](/static/mcloughlin/IMG_0515.png)
 
 For once there were other people around but unfortunately I caught the one person who wasn't looking really cool on this pitch. The snow on the southeast face turned out to be absolutely perfect for the entire top 1000', you could blast down it as fast as you wanted to in perfect security. 
 
