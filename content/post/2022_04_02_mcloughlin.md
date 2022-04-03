@@ -25,7 +25,7 @@ Unfortunately, when I arrived at the house and checked the weather I saw that th
 
 Part 1 didn't go so well, in my rush to figure out the trail I misunderstood where the trailhead was and parked at the winter trailhead. This would have been fine in a higher snow year but with the snow so low it meant I had to bushwhack a bit. Fortunately these were the Oregon cascades and bushwhacking is not that big of a deal, if this was in Washington I wouldn't have made it 500'. 
 
-{{< youtube id="video508">}}<space>
+{{< youtube id="IkWSRT4UAx8">}}<space>
 
 ![img1](/static/mcloughlin/IMG_0510.png)
 
@@ -41,7 +41,7 @@ I didn't take too many photos of the boring parts, but basically I trudged throu
 
 ![img1](/static/mcloughlin/IMG_0513.png)
 
-{{< youtube id="video514">}}<space>
+{{< youtube id="mE0d236ZlqQ">}}<space>
 
 ![img1](/static/mcloughlin/IMG_0514.png)
 
