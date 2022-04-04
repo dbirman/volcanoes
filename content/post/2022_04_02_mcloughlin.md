@@ -1,5 +1,5 @@
 ---
-title: "Mount Mcloughlin"
+title: "M'laiksini Yaina (Mount Mcloughlin)"
 date: 2022-04-02
 tags: []
 draft: false
@@ -7,11 +7,11 @@ draft: false
 
 ![map of mcloughlin](/static/maps/mcloughlin.png)
 
-McLoughlin is a beautiful mountain near the border of California and Oregon with the classical cone shape of a stratovolcano, meaning that it has been built up by successive eruptions over many years. Driving around the area it pops into view occasionally as you turn corners or pass a lake and anybody who has driven the I5 corridor through Medford has seen it in the distance. McLoughlin also happens to be fairly isolated, so it's lucky that Allison and I have a friend from Cornell who lives just twenty miles away who lent me her house for the weekend. Climbing McLoughlin in the winter is a +4400' ascent over about 5 miles.
+M'laiksini Yaina is a beautiful mountain near the border of California and Oregon with the classical cone shape of a stratovolcano, meaning that it has been built up by successive eruptions over many years. Driving around the area it pops into view occasionally as you turn corners or pass a lake and anybody who has driven the I5 corridor through Medford has seen it in the distance. This volcano also happens to be fairly isolated, so it's lucky that Allison and I have a friend from Cornell who lives just twenty miles away who lent me her house for the weekend. Climbing M'laiksini Yaina in winter (from the wrong trailhead) is a +4400' ascent over about 5 miles.
 
 ## Vesper Meadow
 
-After getting off of Shasta I drove straight to Ashland in Oregon and met up with Jeanine, who was lending me the keys to her place at Vesper Meadow. Jeanine is leading a meadow restoration and education program, which you can check out on the [Vesper Meadow](https://www.vespermeadow.org/) website. McLoughlin is super visible from the Meadow (there's a picture on the website) and very much inspiring to look at in the morning! 
+After getting off of Shasta I drove straight to Ashland in Oregon and met up with Jeanine, who was lending me the keys to her place at Vesper Meadow. Jeanine is leading a meadow restoration and education program, which you can check out on the [Vesper Meadow](https://www.vespermeadow.org/) website. M'laiksini Yaina is super visible from the Meadow (there's a picture on the website) and very much inspiring to look at in the morning! 
 
 ![img1](/static/mcloughlin/IMG_0504.png)
 
@@ -19,7 +19,7 @@ After getting off of Shasta I drove straight to Ashland in Oregon and met up wit
 
 ![img1](/static/mcloughlin/IMG_0529.png)
 
-Unfortunately, when I arrived at the house and checked the weather I saw that things were about to get serious again: Oregon is getting about a foot of snow in the south and two feet in the north and some of the Washington mountains are going to get up to five feet of snow between Sunday and Tuesday (I climbed Shasta on Friday). So either I sleep well and blast up McLoughlin on Saturday or I might miss my chance. I decided to take a shot at it, even though it would mean doing two really big days back-to-back. Fortunately, McLoughlin is fairly safe terrain and at a pretty low altitude so the objective hazards were minimal as a solo traveller (and in any case, I made friends on the mountain). 
+Unfortunately, when I arrived at the house and checked the weather I saw that things were about to get serious again: Oregon is getting about a foot of snow in the south and two feet in the north and some of the Washington mountains are going to get up to five feet of snow between Sunday and Tuesday (I climbed Shasta on Friday). So either I sleep well and blast up M'laiksini Yaina on Saturday or I might miss my chance. I decided to take a shot at it, even though it would mean doing two really big days back-to-back. Fortunately, M'laiksini Yaina is fairly safe terrain and at a pretty low altitude so the objective hazards were minimal as a solo traveller (and in any case, I made friends on the mountain). 
 
 ## Bushwhacking
 
@@ -29,7 +29,7 @@ Part 1 didn't go so well, in my rush to figure out the trail I misunderstood whe
 
 ![img1](/static/mcloughlin/IMG_0510.png)
 
-After an hour or so of wandering I got my first up-close view of McLoughlin! That Southeast slope was looking pretty promising. Also, at this point the ground became snow, thank goodness!
+After an hour or so of wandering I got my first up-close view of of the volcano! That Southeast slope was looking pretty promising. Also, at this point the ground became snow, thank goodness!
 
 ![img1](/static/mcloughlin/IMG_0509.png)
 
