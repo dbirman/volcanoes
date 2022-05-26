@@ -13,6 +13,7 @@ theme = "singular"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
+    publishDir = "docs"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     [params.logo]
         url = "/static/Volcano_Blog.gif"
